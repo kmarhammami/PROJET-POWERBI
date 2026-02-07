@@ -4,17 +4,13 @@ Ce projet présente un tableau de bord Power BI dédié à l’analyse de donné
 Il permet de suivre les performances, les ventes, les stocks et les retours produits
 à travers des indicateurs clairs et interactifs.
 
-### 🖥️ Vue d’ensemble
-![Dashboard Overview](1.png)
+![Dashboard Overview](images/1.png)
 
-### 📈 Indicateurs clés & filtres
-![KPI and Filters](2.png)
+![KPI and Filters](images/2.png)
 
-### 📊 Analyse des ventes
-![Sales Analysis](3.png)
+![Sales Analysis](images/3.png)
 
-### 🛒 Répartition des catégories
-![Category Distribution](4.png)
+![Category Distribution](images/4.png)
 
-### 🔄 Retours et performance produits
-![Returns and Performance](5.png) .
+![Returns and Performance](images/5.png)
+
