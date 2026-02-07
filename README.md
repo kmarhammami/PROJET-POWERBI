@@ -17,4 +17,4 @@ Il permet de suivre les performances, les ventes, les stocks et les retours prod
 ![Category Distribution](4.png)
 
 ### 🔄 Retours et performance produits
-![Returns and Performance](5.png)
+![Returns and Performance](5.png) .
